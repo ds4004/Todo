@@ -1,0 +1,15 @@
+It is used to create single page application user page.
+
+In this jsx(Javascript syntax extension) is used. It provides a way to structure components hence is similar to html.
+
+By using this the whole website can be broken down into components and worked individually.
+
+
+You can now view to-do in the browser.
+
+  Local:            http://localhost:3000        
+  On Your Network:  http://192.168.56.1:3000     
+
+Note that the development build is not optimized.
+
+in jsx js can be written in {}
